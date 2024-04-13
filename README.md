@@ -3,7 +3,7 @@
      Youtube: https://www.youtube.com/@Dr.SebastienMambou
      Instagram: https://www.instagram.com/quicklylearnaws/
      
-Thank you for taking the time to go through these tutorials. We are a community dedicated to learning and mastering the AWS service.
+Thank you for taking the time to go through these tutorials. We are a community dedicated to learning and mastering the AWS services.
 
 Here is a structure of this little rest. it will be regularly updated with other materials.
 
